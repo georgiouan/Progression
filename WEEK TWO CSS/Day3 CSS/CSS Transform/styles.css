@@ -1,0 +1,12 @@
+.translate {
+    background-color: red;
+    transform: translate(-15px, -15px);
+}
+
+.rotate {
+    background-color: blue;
+}
+
+.scale {
+    background-color: orange;
+}

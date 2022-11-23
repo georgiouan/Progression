@@ -1,0 +1,18 @@
+.box1 {
+    height: 200px;
+    width: 200px;
+    background-color: darkcyan;
+    border: solid 2px black;
+    position: sticky;
+    top: 0;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border: solid 2px black;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

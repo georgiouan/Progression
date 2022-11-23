@@ -1,0 +1,13 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: crimson;
+    text-align: center;
+    margin: 5px;
+    border: 2px solid black;
+    float: right;
+}
+
+p {
+    clear: right;
+}

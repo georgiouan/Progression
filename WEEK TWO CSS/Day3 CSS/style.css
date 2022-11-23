@@ -1,0 +1,20 @@
+:root {
+    --colorOne: #3f84e5;
+    --colorTwo: #b33951;
+    --spacing: 10px;
+}
+
+.one {
+    background-color: var(--colorOne);
+    color: var(--colourTwo);
+    margin: var(--spacing);
+    padding: var(--spacing)
+}
+
+.two {
+    --colorTwo: black;
+    background-color: var(--colorTwo);
+    color: var(--colourOne);
+    margin: var(--spacing);
+    padding: var(--spacing)
+}

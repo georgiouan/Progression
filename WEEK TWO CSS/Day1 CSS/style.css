@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+
+
+/* Universal selector */
+* {
+    background-color: #ffcc83;
+
+}
+
+
+/* Element selector*/
+
+
+p {
+    color: hsl(0, 0%, 0%);
+    font-size: 30px;
+    font-family: 'teko', sans-serif;
+}
+
+/* ID selector*/
+
+#headingtwo {
+    color: orange;
+    font-size: 30px;
+    border: 5px black solid;
+    padding: 10px;
+    margin-right: 90px;
+    margin-left: 90px;
+    text-align: center;
+}
+
+/* Class selector*/
+
+.pGraphs {
+    background-color: rgb(226, 43, 43);
+    color: brown;
+    font-size: 20px;
+}
+
+h1 {
+    margin-right: 250px;
+    margin-left: 200px;
+    font-family: 'Rubik Microbe', sans-serif;
+}
+
+#boxmodel {
+    padding-left: 550px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

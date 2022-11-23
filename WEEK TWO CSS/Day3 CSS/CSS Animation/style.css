@@ -1,0 +1,16 @@
+@keyframes animation1 {
+    from {
+        background-color: red;
+    }
+
+    to {
+        background-color: blue;
+    }
+}
+
+.animationOne {
+    background-color:
+        animation-name: animation1;
+    animation-duration: 5s;
+
+}
